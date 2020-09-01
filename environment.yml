@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - sympy
+  - ffmpeg
   - pip
   - pip:
     - matplotlib
