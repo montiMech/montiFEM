@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - sympy
+  - scipy
   - ffmpeg
   - pip
   - pip:
