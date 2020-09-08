@@ -9,4 +9,7 @@ dependencies:
   - ffmpeg
   - pip
   - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
     - matplotlib
