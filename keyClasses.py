@@ -7,10 +7,11 @@ em@il: wolfgang.flachberger@stud.unileoben.ac.at
 
 import matplotlib.pyplot as plt  
 
-from sympy import simplify, symbols, diff, zeros, init_printing, Array, integrate, sin, cos, tan, Integral
+from sympy import simplify, symbols, diff, zeros, init_printing, Array, integrate, sin, cos, tan, Integral, exp
 from sympy.functions.special.delta_functions import DiracDelta 
 
-from numpy import array, asarray, linspace, dot
+from numpy import array, asarray, linspace, dot, set_printoptions, pi
+
 from numpy.linalg import inv
 
 from IPython.display import display
